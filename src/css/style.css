@@ -41,13 +41,14 @@ body {
     min-height: calc(100vh - 80px);
 }
 
+
 .home::after {
-    content: '';
+    content: "";
     position: absolute; 
     height: 100%;
     width: 100%;
-    background: linear-gradient (90deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, .7) 35%, transparent 65%);
-}
+    background: linear-gradient (90deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.7) 35%, transparent 65%);
+} 
 
 .home .imagem-fundo {
     width: 100%;
