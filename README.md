@@ -3,7 +3,7 @@
 
 ## 📖 Sobre o Projeto 
 Projeto desenvolvido no Evento do DevEmDobro. 
-- Disponível em: 
+- Disponível em: https://luisafalquetoz.github.io/projeto-gta/
 
 ## 🚀 Tecnologias Utilizadas
 <div style="display: inline_block">
