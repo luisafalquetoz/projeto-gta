@@ -1,15 +1,41 @@
-<h1>Projeto GTA</h1>
-<br>
-<br>
-<h2>Esse foi um projeto que aprendi no Evento do DevEmDobro</h2>
-<br> 
-<h2>Tecnologias utilizadas:</h2>
+## Projeto GTA
+![Screenshot do projeto](src/imagens/screenshot-1.png)
+
+## 📖 Sobre o Projeto 
+Projeto desenvolvido no Evento do DevEmDobro. 
+- Disponível em: 
+
+## 🚀 Tecnologias Utilizadas
 <div style="display: inline_block">
 <p>HTML<img  align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"></p>
 <p>CSS<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"></p>
 <p>JavaScript<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"></p>
 </div>
-<br>
-<img src="https://github.com/luisafalquetoz/projeto-gta/blob/master/site%20projeto%20gta%201.png?raw=true"> 
-<img src="https://github.com/luisafalquetoz/projeto-gta/blob/master/site%20projeto%20gta%202.png?raw=true"> 
-<img src="https://github.com/luisafalquetoz/projeto-gta/blob/master/site%20projeto%20gta%203.png?raw=true"> 
+
+## 📥 Instalação
+
+Clone o repositório e acesse a pasta:
+
+```
+# Clone este repositório
+git clone https://github.com/luisafalquetoz/projeto-gta.git
+
+# Acesse a pasta do projeto
+cd projeto-gta
+```
+
+## ▶️ Como Usar
+Para rodar o projeto: 
+- Baixe a extenssão Live Sever
+- Abra o arquivo HTML clicando com o botão direito e escolha a opção Open with Live Server.
+
+## 📬 Contato
+Caso tenha dúvidas ou sugestões, entre em contato:
+
+Nome: Luisa Falqueto
+
+E-mail: luisafzandonade@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/luisa-falqueto/)
+
+GitHub: [GitHub](https://github.com/luisafalquetoz)
